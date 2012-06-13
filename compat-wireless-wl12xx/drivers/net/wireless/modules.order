@@ -1,0 +1,6 @@
+kernel//home/kamarush/Compat-WL12xx-4.1.B.0.431/compat-wireless-wl12xx/drivers/net/wireless/wl12xx/wl12xx.ko
+kernel//home/kamarush/Compat-WL12xx-4.1.B.0.431/compat-wireless-wl12xx/drivers/net/wireless/wl12xx/wl12xx_spi.ko
+kernel//home/kamarush/Compat-WL12xx-4.1.B.0.431/compat-wireless-wl12xx/drivers/net/wireless/wl12xx/wl12xx_sdio.ko
+kernel//home/kamarush/Compat-WL12xx-4.1.B.0.431/compat-wireless-wl12xx/drivers/net/wireless/wl1251/wl1251.ko
+kernel//home/kamarush/Compat-WL12xx-4.1.B.0.431/compat-wireless-wl12xx/drivers/net/wireless/wl1251/wl1251_spi.ko
+kernel//home/kamarush/Compat-WL12xx-4.1.B.0.431/compat-wireless-wl12xx/drivers/net/wireless/wl1251/wl1251_sdio.ko
